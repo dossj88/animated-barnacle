@@ -6,11 +6,14 @@ This weather application uses third-party API's to retrieve weather from destina
 
 ## Usage
 
-To use this application simply go to (), enter your destination in the top left corner search bar. The results will show to the right of the screen. Below are a couple screenshots to demonstrate the functionality.
+To use this application simply go to https://dossj88.github.io/animated-barnacle/, enter your destination in the top left corner search bar. The results will show to the right of the screen. Below are a couple screenshots to demonstrate the functionality.
     ![alt text](assets/images/weather%201.png)
     ![alt text](assets/images/weather%202.png)
     ![alt text](assets/images/weather%203.png)
     
+## Website Link
+
+https://dossj88.github.io/animated-barnacle/
 
 ## Credits
 
